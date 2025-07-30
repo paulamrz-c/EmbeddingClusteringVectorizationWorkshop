@@ -1,0 +1,424 @@
+Welcome to the Student Affairs Self-Serve Portal. This platform is designed to support students in managing their academic journey with ease. You can use this system to find information about tuition payments, registration deadlines, course add/drop periods, financial aid, graduation requirements, and academic support.
+
+If you're looking for how to pay your tuition, navigate to the Student Finance section and select “Make a Payment.” You may pay in full or set up a semester-based payment plan. Missing payments may result in financial holds, which can block registration or access to transcripts.
+
+---
+
+Student: Hi, I’m trying to figure out how to pay my tuition fees.  
+Chatbot: You can pay online through the Student Portal. Log in, navigate to “Finance,” and select “Make a Payment.”
+
+Student: Can I pay in installments?  
+Chatbot: Yes, you can set up a payment plan and pay in three monthly installments.
+
+Student: What happens if I miss one?  
+Chatbot: You may incur a late fee or be blocked from future registration. Contact Student Accounts if you're having difficulty.
+
+---
+
+Student: I'm not feeling well and can't attend my final exam.  
+Chatbot: I'm sorry to hear that. You may be eligible for a deferred exam. Please submit a medical note and fill out the Deferral Request Form.
+
+Student: Where can I find that form?  
+Chatbot: The form is available under the Exams section of the portal, or you can access it here: [https://collegeportal.edu/exam-deferral](#)
+
+---
+
+Student: I need help choosing my courses for next term.  
+Chatbot: You can book an academic advising appointment through the Advising section. Would you like a link?
+
+Student: Yes, please.  
+Chatbot: Here you go: [https://collegeportal.edu/advising](#)
+
+---
+
+Student: I’m feeling overwhelmed and anxious this term.  
+Chatbot: I'm really sorry you're feeling this way. You're not alone. You can speak with a Student Success Advisor or book a free counseling session.
+
+Student: Is it confidential?  
+Chatbot: Yes, all counseling services are 100% confidential and free of charge.
+
+---
+
+Student: I need to reset my portal password.  
+Chatbot: You can reset your password at [https://collegeportal.edu/reset-password](#). If you're locked out, contact IT support at 555-987-6543.
+
+Student: The reset page isn't working.  
+Chatbot: Please try again in Incognito Mode. If the issue continues, email helpdesk@college.edu.
+
+---
+
+Student: Can I get proof that I’m a full-time student?  
+Chatbot: Yes, download an Enrollment Verification Letter from the Registrar's section of the portal.
+
+Student: How long does it take?  
+Chatbot: Instant if downloaded. Manual requests take up to 2 business days.
+
+---
+
+Student: How do I apply for graduation?  
+Chatbot: Navigate to the Graduation tab and click “Apply Now.” The deadline for this term is October 31.
+
+Student: What if I miss it?  
+Chatbot: Late applications may not be accepted. Contact registrar@college.edu to request late consideration.
+
+---
+
+Student: What is academic probation?  
+Chatbot: Academic probation means your GPA has fallen below the required threshold. You’ll need to meet with an advisor to create an improvement plan.
+
+Student: Can I still take classes?  
+Chatbot: Yes, but you may be limited in the number of courses you can enroll in.
+
+---
+# Academic Policies and Procedures FAQ
+
+Q: What are the important academic policies I need to know?
+A: You should familiarize yourself with the Academic Calendar (tables of term dates, add/drop deadlines, withdrawal dates), the Attendance Policy, Evaluation Rules, the Academic Integrity Policy, Grade Dispute and Appeal policy, Academic Standing guidelines, and program-specific requirements. These are accessible on the Registrar's Office and Conestoga Student Success sites, and they govern enrollment, grading, participation, and academic conduct.
+
+Q: Where can I find the official Academic Calendar?
+A: The Academic Calendar is published online each academic year on the Conestoga Academic Calendar page. It includes term start and end dates, exam schedules, cut-off dates for registration, and official holidays such as Family Day, Victoria Day, Thanksgiving, and winter breaks.
+
+Q: How do I add or drop a course?
+A: To add or drop a course, go to the Student Portal during the add/drop period for your term. You must complete add/drop forms and submit them by the designated deadline to avoid incurring full tuition or academic penalty. If you miss the deadline, a “W” (Withdrawal) appears on your transcript and may affect your GPA.
+
+Q: What does “withdrawal with refund” mean?
+A: Withdrawal with refund allows you to drop a course and receive a partial or full refund, depending on when you withdraw. A refund may require administrative processing and must occur before the refund deadline; review the Academic Calendar for dates.
+
+Q: What if I withdraw after the refund deadline?
+A: Late withdrawals result in a “W” on your transcript but no refund. The course remains recorded. Repeated “W”s may impact academic standing or program eligibility.
+
+Q: What is the attendance policy?
+A: Conestoga expects regular attendance and active participation in class, labs, clinicals, practicums, and placements. Faculty may assign grades based partly on attendance; skipping classes can result in reduced grades or academic penalties. Contact your instructor and SSA if illness or emergency prevents attendance.
+
+Q: How do I get accommodations for religious observances or academic situations?
+A: You must submit a request in writing to your instructor before the mandatory event or evaluation. Supporting documentation may be required. The instructor and SSA will collaborate to schedule an alternate date or format, if possible. Personal conflicts like vacations or social events are generally not accommodated.
+
+Q: What are the evaluation policies?
+A: Evaluation policies differ by faculty, course, and program, and may include exams, quizzes, assignments, presentations, labs, group work, and participation components. Marks are usually communicated through the Student Portal or instructor email. All major evaluations are scheduled in advance via the Academic Calendar.
+
+Q: What happens if I miss an exam or major evaluation?
+A: You must notify your instructor or SSC administrative office ASAP, ideally before the evaluation starts. Provide documentation (such as a doctor’s note) as soon as possible. Faculty will then determine if a make‑up exam or alternate evaluation is appropriate. Without documentation, a zero may be assigned.
+
+Q: How does the Academic Integrity policy work?
+A: Academic integrity means honesty and ethical behavior in all academic assignments. Examples of violations include plagiarism, cheating, falsification of data, unauthorized collaboration, and reuse of assignments. Consequences range from failing the activity to failing the course or academic suspension, depending on severity.
+
+Q: What should I do if I'm told I may have breached academic integrity?
+A: You will receive a meeting request from your Faculty, SSA or Student Rights & Responsibilities (SRRO) Office. Attend the meeting, review the evidence, present your perspective, and accept responsibility or appeal. Appeal deadlines are outlined in the policy.
+
+Q: How can I avoid unintentional plagiarism?
+A: Use proper citations in accepted formats (APA, MLA, Chicago, etc.). Paraphrase carefully and track sources. Writing Services offers support in structuring citations and paraphrasing without misrepresenting sources.
+
+Q: What is academic standing?
+A: Academic standing reflects your overall academic performance. Good standing is typically a GPA of 2.0 or higher (or program minimum). Falling below that can result in being on Academic Warning or Academic Probation, with limited enrollment and mandatory advising.
+
+Q: What should I do if I'm placed on Academic Probation?
+A: Meet with your SSA promptly. Develop an academic improvement plan—set weekly study goals, attend learning labs and workshops, seek tutoring, adjust course load, and evaluate learning strategies. Follow up continuously and seek tutoring or career support to avoid further consequences.
+
+Q: How do I dispute a grade?
+A: Start by discussing the grade with your instructor. If the outcome is unsatisfactory, you can escalate your appeal to the Program Chair within 10 business days of grade release. Provide a covering letter detailing the request, your rationale, and relevant course materials.
+
+Q: What is the grade appeal procedure?
+A: The Grade Appeal process has three stages. Stage 1 is a formal appeal to the Instructor within the deadline. Stage 2 involves the Program Chair or similar, and Stage 3 is final appeal to the Vice President Academic. Appeals at Stage 3 can result in decisions being reconsidered or final.
+
+Q: Are final grades ever changed?
+A: Grades can be reviewed after appeal, new evidence emerges, or clerical errors are found. Once final, they remain on your transcript; if revised, updated transcripts are issued.
+
+Q: How do I withdraw from my program?
+A: To withdraw program-wide, complete the required withdrawal form in the Student Portal. Discuss your decision with your SSA to explore alternatives. Withdraw before withdrawal dates to avoid academic penalties.
+
+Q: Will withdrawing affect my OSAP?
+A: Yes. If you withdraw part-time or full-time, OSAP funding may be recalculated according to the number of credits completed. You may be required to repay a portion of funding.
+
+Q: What is the makeup policy for labs or practical sessions?
+A: Lab time is limited and cannot always be repeated. Notify the instructor immediately to schedule a makeup or alternate assignment. Documentation is required. Some practical activities cannot be made up; alternatives are decided at faculty discretion.
+
+Q: What if I need special exam accommodations for accessibility or religious reasons?
+A: Submit accommodation documentation through Accessible Learning at least three weeks before the exam. Accommodated settings, extra time, or alternate formats may be arranged.
+
+Q: Where are the Academic Policies located?
+A: All academic policies and procedures are on the Registrar’s Office site, your program’s Moodle page, and Student Success Portal. Each course syllabus should also list relevant policy references.
+
+Q: Is it mandatory to follow the student code of conduct?
+A: Yes. You agree to abide by the Student Code of Conduct when you register. Infraction results fall under the Student Rights & Responsibilities process and may include sanctions from warnings to suspension.
+
+Q: What support is available if I struggle academically?
+A: Utilize Learning Skills workshops, drop-in tutoring, Math & Writing labs, peer mentor teams, Academic Coaching, and one-to-one SSA academic planning. You are encouraged to access supports early.
+
+Q: How do I find policy deadlines?
+A: Deadlines for course changes, withdrawals, exam appeals, etc., are listed in the Academic Calendar and each course syllabus. Review deadlines at the start of each term, and keep a personal calendar.
+
+Q: Who should I contact with unanswered academic policy questions?
+A: For general policy clarity, contact your SSA or Faculty Administrative Assistant. For hearings related to integrity or wardrobe, contact SRRO. For registrar-specific timelines, contact the Registrar’s Office.
+
+Q: What happens if I miss an important deadline?
+A: Late submissions may receive a penalty or no credit. Missing add/drop or withdrawal deadlines results in being responsible for tuition or failing grade. Contact your SSA quickly to discuss options; internal appeals can sometimes be made.
+
+Q: Can I get an extension on assignments?
+A: Extensions are granted at instructor discretion. Submit extension requests before deadlines with reason (e.g., illness, caregiving). Documented reasons may be approved; faculty determine extensions and penalties.
+
+Q: Does the College allow repeating a course?
+A: In many programs, you may repeat a failed course. Check your program requirements. GPA recalculation and transcript may list repeats. Financial aid eligibility for repeats is subject to OSAP rules.
+
+Q: How do I register for repeat courses?
+A: You must register during regular registration windows by searching for the course code. Contact your SSA or Registrar’s Office for registration assistance.
+
+Q: Can repeated courses impact my GPA?
+A: Depends on policy. At Conestoga, all attempts appear on your transcript, but GPA calculation may consider only the highest grade, according to Academic Calendar.
+
+Q: What counts as academic misconduct?
+A: Academic misconduct includes plagiarism, cheating, falsifying data/labs, improper collaboration, sharing answers, submitting same work for different courses. The SRRO investigates allegations and prescribes penalties.
+
+Q: Who manages academic misconduct issues?
+A: The Student Rights & Responsibilities Office investigates. Faculty and Program Chairs support information gathering. Appeals must be directed within 10 business days of initial decisions.
+
+Q: How can I avoid being accused of misconduct?
+A: Keep academic integrity in mind—cite all sources, work individually when instructions say so, keep assignment drafts, reference lab logs accurately, don't share answers or login info.
+
+Q: Are there student workshops on policies?
+A: Yes, Student Success runs webinars and drop-in sessions explaining academic policies, integrity, and support services. Watch the Student Success Events Calendar.
+
+Q: What is a “Dean’s List” or Honor Roll?
+A: Depending on program criteria, students with high academic performance (e.g., GPA ≥ 3.5 and minimum credit load) are recognized each semester. Outstanding students are announced and may receive certificates.
+
+  
+# Attendance and Evaluations FAQ
+
+Q: Why is attendance important?
+A: Attendance ensures you access all course content, group activities, labs, testing instructions, and key learning moments. Many courses use participation or professionalism in grading. Missing classes may harm performance and may result in being dropped from the course.
+
+Q: Are online classes treated differently?
+A: Attendance is still required—log into synchronous sessions or complete asynchronous modules. Faculty may track participation. Login frequency and assignment submissions count as attendance.
+
+Q: What if I'm sick?
+A: Notify your instructor immediately and provide documentation (doctor’s note). Ask how you can make up missed content. Submit notes within timelines; faculty determine makeup options. If serious illness persists, discuss temporary leave with your SSA.
+
+Q: What if it's a personal or family emergency?
+A: Notify your instructor ASAP. Provide documentation such as obituary, funeral notice, or hospital records. Faculty may offer alternative timelines. Contact your SSA for further support.
+
+Q: How are missed labs or workshops handled?
+A: Labs often involve group work, special equipment, or safety protocols. Faculty may allow you to attend an alternate session or complete an alternate assignment. Some labs cannot be made up; consult faculty and your SSA for alternatives.
+
+Q: Can I request accommodations based on religious observances?
+A: Yes. Inform your instructor in writing ahead of time. Document the religious dates and request alternate arrangements. Faculty try to accommodate within reason; if denied, escalate via SSA or SRRO.
+
+Q: What if I miss a test?
+A: Notify instructor or administrative office immediately, provide documentation, and request a deferred exam. The format, timing, and location of the deferred exam will be arranged at the discretion of the department.
+
+Q: Can I reschedule assignments?
+A: Submission timelines are set at the beginning of each course. For legitimate reasons (e.g., documented illness, work requirements with notice, or OSAP review), faculty may grant extensions. Requests must have documentation and be made before deadline.
+
+Q: How do I request academic accommodation?
+A: Contact Accessible Learning to submit required documentation. Accommodation could include extra time for exams, assistive technology, or alternative formats. After processing, you'll receive an Accommodation Letter to show your instructor at the start of term.
+
+Q: What is the grading scale?
+A: Most programs use percentages (0–100%) and letter grades. Pass is typically ≥ 60%, but program minimums apply. Some trades use Satisfactory/Unsatisfactory. Your program syllabus details grade weightings.
+
+Q: How is my final grade calculated?
+A: Your final grade is the weighted average of course components: tests, assignments, labs, participation, etc. Details are in the course outline. GPA uses the letter grade equivalents.
+
+Q: What if I disagree with my evaluation result?
+A: Approach your instructor first to discuss specifics. If unresolved, consult your Program Chair within 10 days. If needed, lodge a formal Grade Appeal via the Registrar’s website within the time limit.
+
+Q: Is there a limit to resubmissions?
+A: There is no universal policy. Course outlines specify if resubmits or revisions are allowed and under what conditions. They may incur a grade penalty.
+
+Q: What is a deferred evaluation?
+A: Deferred evaluations are exams, assignments, or labs rescheduled if you miss the original date due to documented reasons. Faculty consults with administration and may schedule in next available exam period.
+
+Q: When do deferred exams take place?
+A: Deferred exams usually happen just after the main exam period or at later sessions identified on the Academic Calendar. Your faculty will publish dates in advance.
+
+Q: What if faculty refuses to allow deferral?
+A: You may escalate to the Associate Dean or SSA. In cases of extenuating circumstances, the SSA can request additional accommodations or permission to defer outside standard schedule.
+
+Q: What is a “no‑show” policy?
+A: Some programs have “no-show” removal rules, where missing the first day of class can result in deregistration. Always attend the first session or notify in advance if unable to attend.
+
+
+# Conestoga College Financial FAQ
+
+Q: What types of financial assistance are available at Conestoga College?
+A: Conestoga College offers various financial assistance options including OSAP (Ontario Student Assistance Program), scholarships, bursaries, and emergency funding.
+
+Q: How do I apply for OSAP?
+A: You can apply for OSAP online through the Ontario government website. Make sure to have your Conestoga College student number handy during the application.
+
+Q: What scholarships and bursaries can I apply for?
+A: Over 400 scholarships and bursaries are available annually to students based on academic achievement, financial need, community involvement, and other criteria. Check the Student Financial Services website for application deadlines and requirements.
+
+Q: How do I apply for scholarships and bursaries?
+A: Applications are submitted through the Student Financial Services portal. Some awards require a separate application; others are automatically considered.
+
+Q: Can I work on campus while studying?
+A: Yes, Conestoga offers work-study programs and other campus employment opportunities to help students earn income while studying.
+
+Q: When is tuition due?
+A: Tuition payment deadlines vary by semester. Refer to the academic calendar and Student Financial Services website for exact dates. Late payments may result in deregistration from courses.
+
+Q: What payment methods are accepted?
+A: Payments can be made online via credit card, bank transfer, or in person at the Student Financial Services office.
+
+Q: What happens if I cannot pay my tuition on time?
+A: Contact Student Financial Services immediately to discuss payment plans or options to avoid deregistration.
+
+Q: Are there emergency funds available?
+A: Yes, emergency financial assistance is available for students facing unexpected financial hardship. Contact Student Financial Services for eligibility and application details.
+
+# ONE Card FAQ
+
+Q: What is a ONE Card?
+A: The ONE Card is Conestoga’s official campus ID for students, staff, and faculty. It provides access to buildings, labs, library services, photocopying, and sometimes meal purchases depending on your campus.
+
+Q: Who is eligible for one?
+A: All registered students, including full-time, part-time, Continuing Education, and some affiliate learners, receive a ONE Card once admitted and have registered or paid a deposit.
+
+Q: How do I get my card photo uploaded?
+A: Log into the ONE Card Portal with your student credentials, follow prompts to upload a clear, front-facing photo, and submit. It should meet specified guidelines (white background, 2″×2″ passport style).
+
+Q: When will my ONE Card be ready?
+A: After uploading and submission, allow 1–2 business days for processing. You'll receive an email notification. Physical pick‑up is available at campus offices.
+
+Q: Where can I pick up the card?
+A: Depending on your campus: Kitchener‑Doon, Waterloo, Cambridge, Guelph, etc. See ONE Card site for specific locations. Bring photo ID & student number.
+
+Q: What if I don't upload a photo?
+A: Your ONE Card production will be delayed. You must upload a photo and pick it up before accessing services such as library, labs, or exams.
+
+Q: Can I pick up someone else's card?
+A: No. For security, you must pick up your own card—no exceptions. Identification validation ensures student records are correct.
+
+Q: How do I activate the ONE Card?
+A: Activation may involve visiting a staff member’s station or logging into the portal to confirm activation. It becomes active once issued.
+
+Q: What services use the ONE Card?
+A: Building access (depending on program); library services; photocopy/printing; labs; some campuses enable purchases in cafeterias or vending machines; event check-ins.
+
+Q: What should I do if I lose the card?
+A: Report it immediately via the ONE Card Portal or Student Central to suspend it. Then apply for a replacement. Fees may apply.
+
+Q: Is there a replacement fee?
+A: Fees vary but typically range from $20–$35. Temporary cards may be issued while a replacement is processed.
+
+Q: How long does it take to get a replacement?
+A: Replacement processing typically takes 1–3 business days after ordering and paying the fee. Temporary cards allow limited access.
+
+Q: What if it’s damaged?
+A: Submit a damage report in the portal. If swipe/magnetic strip is broken, request replacement. If damage is minor (scratches), temporary replacement may not be required.
+
+Q: Can I load money onto the ONE Card?
+A: Some campuses integrate meal or snack account funds via the “eConestoga” system. Check campus specific links for loading funds via cash, debit, card, or online portal.
+
+Q: Can I check my card balance?
+A: Yes. Log into the ONE Card or eConestoga portal to view current balance, transaction details, and expiry dates.
+
+Q: Does the card expire?
+A: ONE Cards expire after your program end date or convocation month. Expired cards may not be activated again and must be replaced for future enrollment.
+
+Q: What if I graduate and later return?
+A: After convocation, your card is deactivated. If you return to studies, contact onecard@conestogac.on.ca to reactivate or request renewed card.
+
+Q: Is there a photo approval requirement?
+A: Yes, the photo must clearly show your face, taken recently (within six months), with no sunglasses, filters, hats (unless religious). Smiling is okay; full face must be visible.
+
+Q: Can I change my photo?
+A: Yes, log into portal to upload a new photo. Processing time is ~1 business day. Notify card office if old card needs reprinting.
+
+Q: What should I do if I'm traveling abroad?
+A: The ONE Card is campus-use; it won’t work for international travel or financial transactions. Use your regular credit/debit card instead.
+
+  
+# Student Support Services FAQ
+
+Q: What support services can I access?
+A: Conestoga offers a broad array of support including Accessible Learning, Counselling, Mental Health, Math & Writing assistance, Career & Experiential Learning, Peer Mentoring, SSHIP & International Student Services, and Indigenous Student Services. Services are free for registered students.
+
+Q: What is Accessible Learning?
+A: A program to support students with physical, learning, or mental health disabilities. They assist in developing accommodation plans, securing assistive technologies, and helping with exam adjustments (extra time, private rooms, note‑taking services). Documentation is required to prove eligibility.
+
+Q: How do I arrange accommodations?
+A: Connect with Accessible Learning early in your program. Complete an intake form and provide documentation (e.g., psycho‑educational, medical note). The team coordinates formal accommodation letters for your instructors each term.
+
+Q: Can I adjust accommodations per course?
+A: Yes. Accommodation letters will specify allowed adjustments per course, such as extra time for tests, seating preferences, or note-taking services. If you require changes mid-term, contact Accessible Learning.
+
+Q: What counselling services are offered?
+A: Conestoga provides one-on-one sessions, group workshops, and crisis support on stress, anxiety, relationship issues, personal or academic pressures, grief, trauma, and career concerns. Meetings can be in-person or virtual.
+
+Q: How do I book a counselling appointment?
+A: Log into the Student Success Portal or call the counselling office. Appointments are often available within one to three business days. For urgent needs, same-day support may be provided if staffing permits.
+
+Q: What is "The Breathing Space"?
+A: A peer-led relaxation and wellness location offering crafts, casual chats, drop-in sessions, and stress-reduction tools. It is available during exam times and occasionally throughout the semester.
+
+Q: What is Peer Support?
+A: Peer Wellness Navigators, Peer Tutors, and academic coaches—students trained to support their peers with study strategies, time management, stress management, and navigating Conestoga life. Book through Student Success Portal.
+
+Q: Are mental‑health workshops available?
+A: Yes. Scheduled workshops include mindfulness, stress management, exam coping strategies, sleep hygiene, self‑care, and healthy lifestyle planning. Check the Student Success events calendar for upcoming sessions.
+
+Q: What are Math & Writing Services?
+A: One-on-one tutoring and drop-in writing labs help students strengthen essay writing, APA formatting, grammar, research organization, math fundamentals, problem-solving techniques, and formula application.
+
+Q: Do I need an appointment for tutoring?
+A: Appointments can be booked through the portal; drop-in sessions are available for quick questions or help. Tutoring is free and available to all students regardless of GPA or program.
+
+Q: What is Career & Experiential Learning?
+A: Services include help with resume writing, cover letters, interview skills, job search strategies, co-op placement support, employer meet-and-greets, resume clinics, and career fairs.
+
+Q: How do I make a career appointment?
+A: Book via the Student Success Portal using the Career Advising category. Choose in-person, phone, or virtual appointments based on your preference.
+
+Q: What workshops are offered?
+A: Career workshops include LinkedIn training, salary negotiation, networking, job applications, portfolio building, and professional etiquette. Career-themed webinars may also be held online.
+
+Q: What is SSHIP or International Student Services?
+A: Ontario’s Student Support Programs for International Students provide orientation support, immigration advising, health insurance guidance, ACORN/IAL system tutorials, and cultural integration workshops.
+
+Q: What is Indigenous Student Support?
+A: Services offered through the Indigenous Student Centre include elder mentorship, cultural ceremonies, study gatherings, academic advising, and community liaison for Indigenous learners.
+
+Q: What is the CARE Team?
+A: The CARE Team supports students in crisis situations—academic, personal, health, or basic needs. Any community member can contact them. They follow with referrals, check-ins, and monitoring.
+
+Q: Can I get help with housing or food insecurity?
+A: Yes. The CARE Team and Student Central can connect you with food banks, housing referrals, emergency funds, social service agencies, and campus food pantry partnerships.
+
+Q: Are there free health services?
+A: Some campuses have nursing stations or health clinics providing first aid, basic health assessments, immunization clinics, and health promotion programs.
+
+Q: What technology resources are available?
+A: Students can borrow laptops, chargers, hotspots, and equipment through the Library. Print/scan/copy services also exist across campuses.
+
+Q: Is there help for mental health crises?
+A: Yes. College staff, Accessible Learning Consultants, counsellors, and Peer Navigators triage crisis calls; referrals to Good2Talk, local crisis lines, and hospitals are coordinated.
+
+Q: What is the Student Awareness & Response Team?
+A: Different from CARE, it is a safety-focused team responding to emergencies, accidents, or dangerous situations on campus, including medical events, security or police liaison.
+
+Q: Are there services for student caregivers?
+A: Students who are caregivers for family members can access supports through Accessible Learning and Counselling. You can arrange more flexible session schedules or alternate exam options.
+
+Q: What is academic coaching?
+A: Academic coaching includes tailored support to build self-regulation, study routines, prioritizing, note-taking, stress management, and learning skills. Coaches are peer or professional staff.
+
+Q: How do I access workshops and events?
+A: Use the Student Success Portal or Conestoga Events site. Topics range from career, academic skills, wellness, to cultural awareness and leadership development.
+
+   
+
+
+This portal uses AI to assist with general inquiries. If the chatbot is unable to help, it will refer you to a human advisor. For example, if you mention you're anxious or in crisis, it will recommend contacting a counselor. This “off-ramp” protocol ensures students in distress are never left without support.
+
+International students can find immigration support, study permit renewal information, and travel document guidance on our international affairs page. Weekly drop-in sessions are available every Friday from 2–4 PM.
+
+The Academic Calendar includes dates for semester start/end, reading week, final exams, holidays, and course withdrawal deadlines. You can access the calendar via the dashboard.
+
+The Registrar’s Office handles enrollment verification, course scheduling, grade appeals, name changes, and credential issuing. The Counseling Centre offers mental health support, workshops, wellness groups, and 1-on-1 therapy.
+
+Students often ask about GPA calculation, transcript ordering, exam retakes, scholarship eligibility, and policies on cheating or plagiarism. These topics are covered in the Academic Handbook.
+
+Policy: Late submissions may be penalized unless an official accommodation is approved by Accessible Learning. Use the online accommodation form to begin your request.
+
+This chatbot is trained on institutional policy documents, student handbooks, and simulated support conversations. Its purpose is to provide 24/7 self-service support while ensuring students are routed to appropriate support teams for complex needs.
+
+Thank you for using the Student Affairs Chatbot.
